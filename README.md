@@ -1,6 +1,6 @@
 ## A-useful-list-for-developers
 
-#### Genernal
+#### General
 Every programmer should know
 https://github.com/mtdvio/every-programmer-should-know
 
